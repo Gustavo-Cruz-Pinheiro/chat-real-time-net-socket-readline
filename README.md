@@ -4,6 +4,8 @@
 
 O objetivo do projeto foi desenvolver um chat em tempo real de um cliente com um servidor.
 
+![Demonstração da Aplicação](./demo.png)
+
 ## 🛠 Tecnologias e Libs
 
 As seguintes ferramentas foram usadas na construção do projeto:
