@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Finalizado&color=GREEN&style=for-the-badge)
 
-O objetivo do projeto foi desenvolver um chat em tempo real de um cliente com um servidor.
+O objetivo do projeto foi desenvolver um chat em tempo real de um cliente com um servidor, via terminal.
 
 ![Demonstração da Aplicação](./demo.png)
 
